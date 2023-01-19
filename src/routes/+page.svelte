@@ -34,7 +34,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
 <body>
-	<div class="absolute inset-48 leading-8 opacity-95">
+	<div class="absolute inset-y-40 left-1/3 leading-8 opacity-95">
 	<div class="clay card">
 		<h2 class="text-4xl text-center"><ink data-type="blurred">润滑液</ink>计算器</h2>
 <!--		动态获取爱液信息-->
